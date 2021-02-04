@@ -1,2 +1,2 @@
 # TgSchedulerBot
-Bu botu düzenleyerek spesifik bir chat'e saatlik mesajlar atmasını sağlayabilirsiniz
+Bu botu düzenleyerek Telegramdaki spesifik bir chat'e saatlik mesajlar atmasını sağlayabilirsiniz
